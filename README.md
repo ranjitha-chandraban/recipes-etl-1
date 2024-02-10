@@ -7,7 +7,6 @@ Running python program
 
 •	Run the main script: We run the main script using python ./hf_bi_python_exercise/main.py This script likely contains the main logic for data processing using PySpark.
 
-
 Design approach
 1.	Using PySpark for handling large datasets: PySpark is a great choice for processing large datasets due to its distributed computing capabilities.
 
