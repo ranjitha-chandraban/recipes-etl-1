@@ -1,3 +1,10 @@
+# Clone the repository
+- ### The below command is used to clone the repo
+```
+https://github.com/ranjitha-chandraban/recipes-etl-1.git
+```
+
+- ### 
 # Running python program
 - ### Create a virtual environment: In the main directory ./recipes-etl-1. This virtual environment helps in isolating project dependencies.
 ```
